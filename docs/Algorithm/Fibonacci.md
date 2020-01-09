@@ -1,4 +1,8 @@
-# 피보나치 수열
+---
+layout: default
+title: 피보나치(Fibonacci)
+parent: Algorithm
+---
 
 > fibo(n)=fibo(n-1)+fibo(n-2) 로, n번째 수를 구하는 알고리즘에 대해 학습
 

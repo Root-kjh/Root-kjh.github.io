@@ -1,4 +1,8 @@
-# 그래프(Graph)
+---
+layout: default
+title: 그래프(Graph)
+parent: Algorithm
+---
 
 ## 그래프의 이해
 
@@ -19,18 +23,18 @@
 
 ## 그래프의 종류
 
-1. 연결 관계에 있어서 방향성이 없는 그래프
+* 무방향 그래프(Undirected Graph)
 
-    [무방향 그래프(Undirected Graph)]
+    * 연결 관계에 있어서 방향성이 없는 그래프
 
-2. 간선에 방향정보가 포함된 그래프
+* 방향 그래프(Directed Graph / Digraph)
 
-    방향 그래프(Directed Graph / Digraph)
+    * 간선에 방향정보가 포함된 그래프
 
-3. 간선에 가중치 정보를 두어 구성한 그래프
+* 가중치 그래프(Weight Graph)
 
-    가중치 그래프(Weight Graph)
+    * 간선에 가중치 정보를 두어 구성한 그래프
 
-4. 원 그래프의 일부 정점 및 간선으로  이뤄진 그래프
+* 부분 그래프(Sub Graph)
 
-    부분 그래프(Sub Graph)
+    * 원 그래프의 일부 정점 및 간선으로  이뤄진 그래프

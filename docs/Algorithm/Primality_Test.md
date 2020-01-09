@@ -1,4 +1,8 @@
-# 소수 판별법(Primality Test)
+---
+layout: default
+title: 소수 판별법(Primality Test)
+parent: Algorithm
+---
 
 > 1과 자기 자신으로만 나누어지는 자연수를 찾는 방법에 대해 학습
 
