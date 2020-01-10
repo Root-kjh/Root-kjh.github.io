@@ -2,6 +2,7 @@
 layout: default
 title: BackTracking
 parent: Algorithm
+nav_order: 1
 ---
 
 >조합 알고리즘 문제에서 조건이 만족하는 모든 조합의 수를 살펴보는 알고리즘

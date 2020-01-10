@@ -2,6 +2,7 @@
 layout: default
 title: 그래프(Graph)
 parent: Algorithm
+nav_order: 6
 ---
 
 ## 그래프의 이해

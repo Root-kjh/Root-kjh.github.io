@@ -2,6 +2,7 @@
 layout: default
 title: 너비 우선 탐색(BFS)
 parent: Algorithm
+nav_order: 2
 ---
 
 >루트 노드에서 시작해 인접한 노드를 먼저 탐색하는 방법

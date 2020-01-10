@@ -2,6 +2,7 @@
 layout: default
 title: 리스트(List)
 parent: Algorithm
+nav_order: 7
 ---
 
 >정의되지 않은 갯수의 데이터를 관리하기 용이한 자료구조

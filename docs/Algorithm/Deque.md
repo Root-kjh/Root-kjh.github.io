@@ -2,6 +2,7 @@
 layout: default
 title: 덱(Deque)
 parent: Algorithm
+nav_order: 3
 ---
 
 > 삽입과 삭제가 양 쪽에서 가능한 자료구조

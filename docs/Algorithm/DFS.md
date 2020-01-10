@@ -2,6 +2,7 @@
 layout: default
 title: 깊이 우선 탐색(DFS)
 parent: Algorithm
+nav_order: 4
 ---
 
 > 로트 노드에서 시작해 다음 분기로 넘어가기 전에 해당 분기를 완벽히 탐색하는 방법

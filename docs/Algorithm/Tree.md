@@ -1,4 +1,10 @@
-# 트리(Tree)
+---
+layout: default
+title: 트리(Tree)
+parent: Algorithm
+nav_order: 11
+---
+
 >트리는 1개 이상의 노드를 갖는 집합으로 노드들은 다음 조건을 만족한다.
 
     1. 트리는 하나의 루트 노드를 갖는다.
