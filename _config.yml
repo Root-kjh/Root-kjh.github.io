@@ -38,7 +38,7 @@ aux_links:
   "Github":
     - "//github.com/Root-kjh",
   "Gmail":
-    - "mailto:wldnro3141@gmail.com",                    
+    - "mailto:wldnro3141@gmail.com"                   
 
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 DrK. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
