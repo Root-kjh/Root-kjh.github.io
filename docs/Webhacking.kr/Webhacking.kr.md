@@ -1,10 +1,9 @@
 ---
 layout: default
 title: WebHacking.kr
-parent: WebHacking
 nav_order: 1
 has_children: true
-permalink: /docs/Webhacking/Webhacking_kr
+permalink: /docs/Webhacking.kr
 ---
 
 # WebHacking.kr
