@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Webhacking.kr
-parent: Webhacking
+parent: WebHacking
 nav_order: 1
 has_children: true
 permalink: /docs/Webhacking/Webhacking.kr
