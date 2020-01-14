@@ -3,7 +3,7 @@ layout: default
 title: WebHacking.kr
 nav_order: 1
 has_children: true
-permalink: /docs/Webhacking.kr
+permalink: /docs/Webhacking_kr
 ---
 
 # WebHacking.kr
