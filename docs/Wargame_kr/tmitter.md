@@ -19,6 +19,8 @@ create table tmitter_user(
 
 접속하면 로그인과 회원가입 버튼이 보인다.
 
+![index](/assets/images/wargame_kr/tmitter/1.png)
+
 회원가입 창에 들어가 소스를 보면 admin으로 회원가입 하라는 주석이 보인다.
 
 ID로 어드민 ID를 친 후에 띄어쓰기로 32칸을 모두 채우고 그 뒤에 아무 글자나 넣으면 admin 계정으로 회원가입 할 수 있다.
