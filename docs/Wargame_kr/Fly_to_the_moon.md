@@ -2,7 +2,7 @@
 layout: default
 title: Fly Me To The Moon
 parent: Wargame.kr
-nav_order: 4
+nav_order: 7
 ---
 
 # Fly Me To The Moon
