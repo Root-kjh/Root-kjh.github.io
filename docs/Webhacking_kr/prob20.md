@@ -7,21 +7,16 @@ nav_order: 20
 
 # Prob20
 
-문제 사이트에 접속하면 input과 javascript 소스를 볼 수 있다.
+문제 사이트에 접속하면 여러 input을 볼 수 있다.
+
+![index](/assets/images/webhacking_kr/prob20/1.png)
+
+해당 input에 text와 code를 넣고 2초 안에 submit을 하면 풀 수 있다.
+
+python으로 툴을 작성하거나 콘솔에 script를 입력해 해결하면 된다.
 
 ```javascript
-function ck(){
-  var ul=document.URL;
-  ul=ul.indexOf(".kr");
-  ul=ul*30;
-  if(ul==pw.input_pwd.value) { location.href="?"+ul*pw.input_pwd.value; }
-  else { alert("Wrong"); }
-}
+lv5frm.id.value='a';
+lv5frm.cmt.value='a';
+lv5frm.captcha.value=lv5frm.captcha_.value;
 ```
-input에 넣은 text가 ul과 같으면 ?로 이동시킨다. 간단히 ul 값을 구하면 되는 문제다.
-
-```javascript
-document.URL.indexOf(".kr")*30
-```
-
-![clear](/assets/images/webhacking_kr/prob14/1.png)
