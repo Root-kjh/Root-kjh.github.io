@@ -5,7 +5,9 @@ parent: Algorithm
 nav_order: 13
 ---
 
-    LIS(Longest Increasing Subsequence)는 앞에서부터 뒤로 숫자를 선택하며 부분 수열을구성해 나갈 때 증가하는 순서대로 숫자를 고르면서 고른 부분 수열의 길이가 최대 길이가 되도록 숫자를 선택하는 알고리즘
+    LIS(Longest Increasing Subsequence)는 앞에서부터 뒤로 숫자를 선택하며 부분 수열을구성해 나갈 때
+    
+     증가하는 순서대로 숫자를 고르면서 고른 부분 수열의 길이가 최대 길이가 되도록 숫자를 선택하는 알고리즘이다.
 
 ![LIS](https://t1.daumcdn.net/cfile/tistory/217AA83B5888A4B936)
 
