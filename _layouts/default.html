@@ -66,14 +66,6 @@ layout: table_wrappers
               {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<svg viewBox=\"0 0 16 16\" aria-hidden=\"true\"><use xlink:href=\"#link\"></use></svg>" anchorClass="anchor-heading" %}
             {% else %}
               {{ content }}
-              <hr>
-              <script src="https://utteranc.es/client.js"
-                      repo="Root-kjh/Root-kjh.github.io"
-                      issue-term="pathname"
-                      theme="github-light"
-                      crossorigin="anonymous"
-                      async>
-              </script>
             {% endif %}
 
           {% if page.has_children == true and page.has_toc != false %}
@@ -90,6 +82,16 @@ layout: table_wrappers
               {% endfor %}
             </ul>
           {% endif %}
+          {% unless page.url == "/" or page.grand_parent %}
+              <hr>
+              <script src="https://utteranc.es/client.js"
+                      repo="Root-kjh/Root-kjh.github.io"
+                      issue-term="pathname"
+                      theme="github-light"
+                      crossorigin="anonymous"
+                      async>
+              </script>
+          {% endunless %}
           {% if site.footer_content != nil %}
             <hr>
             <footer role="contentinfo">
