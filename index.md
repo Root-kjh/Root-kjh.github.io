@@ -38,6 +38,7 @@ permalink: /
 
         * [Warzone_Props](https://github.com/Root-kjh/Warzone_props) : WebHacking 관련 문제 출제 (XSS, SQL Injection 등)
 
+    * Spring, React, Mongo
         * [Recruit_List-Server](https://github.com/Root-kjh/Recruit_List-Server) : 산업기능요원 채용관련 정보를 크롤링, 가공 후 Rest API로 데이터 표현
 
         * [Recruit_List-View](https://github.com/Root-kjh/Recruit_List-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
