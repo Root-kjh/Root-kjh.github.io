@@ -30,9 +30,9 @@ permalink: /
 
     * [Spring](https://github.com/Root-kjh/til/tree/master/Spring/%EC%BD%94%EB%93%9C%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) : 스프링의 기본 사용법과 MVC 구조 등에 대해 학습
 
-    * PHP, HTML, CSS, SQL
+    Projects(개인 프로젝트)
 
-        Projects(개인 프로젝트)
+    * PHP, HTML, CSS, SQL
 
         * [Warzone](https://github.com/Root-kjh/Warzone) : WebHacking, Pwnable, Reversing, Crypto 등의 여러 해킹 문제 출제 사이트 개발
 
