@@ -6,55 +6,66 @@ nav_order: 10
 ---
 
 > n 개의 숫자가 주어졌을 때, 이를 사용자가 지정한 기준에 맞게 정렬하여 출력하는 알고리즘
-    
 
-## 정렬의 종류
+# 선택 정렬(Selection Sort)
 
-* 선택 정렬(Selection Sort)
+>해당 순서에 원소를 넣을 위치는 이미 정해져 있고, 어떤 원소를 넣을지 선택하는 알고리즘
 
-    > 정렬 알고리즘 중 가장 직관적이고 쉽게 구현 가능
+* 시간복잡도는 최선, 최악 모두 O(n^2)으로 동일하다.
 
-    * 리스트 중 가장 작은 값을 찾아 0번째 요소에 있는 값과 바꾼다.
+* 정렬 알고리즘 중 가장 직관적이고 쉽게 구현 가능하다.
 
-    * 리스트 중 정렬된 값을 제외하고 남은 값 중 가장 작은 값을 n번째 요소에 있는 값과 바꾼다.
+* Bubble Sort에 비해 실제 교환 횟수가 적기 때문에 많은 교환이 일어나야 하는 자료상태에서 효율적이다.
 
-    * 정렬이 끝날때까지 반복한다.
+* 다른 메모리 공간을 필요로 하지 않는다.
 
-    ```python
-    def Selection_Sort(table):
-        count=0
-        table_size=len(table)
+* 불안정 정렬이다.
 
-        while count<table_size:
-            minIdx=-1
-            minValue=0
+    정렬되지 않은 상태에서 같은 키값을 가진 원소의 순서가 정렬후에 유지되지 않음
 
-            for i in range(count,table_size):    
-                if minIdx==-1 or minValue>table[i]:
-                    minValue=table[i]
-                    minIdx=i
+## 선택 정렬의 과정
 
-            temp=table[count]
-            table[count]=table[minIdx]
-            table[minIdx]=temp
+* 리스트 중 가장 작은 값을 찾아 0번째 요소에 있는 값과 바꾼다.
 
-            count+=1
+* 리스트 중 정렬된 값을 제외하고 남은 값 중 가장 작은 값을 n번째 요소에 있는 값과 바꾼다.
 
-        return table
+* 정렬이 끝날때까지 반복한다.
 
-    if __name__ == "__main__":
-        table=[5,2,1,3,4]
-        Selection_Sort(table)
-        print(table)
-    ```
+```python
+def Selection_Sort(table):
+    count=0
+    table_size=len(table)
 
-* 삽입 정렬(Insertion Sort)
+    while count<table_size:
+        minIdx=-1
+        minValue=0
 
-* 버블 정렬(Bubble Sort)
+        for i in range(count,table_size):    
+            if minIdx==-1 or minValue>table[i]:
+                minValue=table[i]
+                minIdx=i
 
-* 병합 정렬(Merge Sort)
+        temp=table[count]
+        table[count]=table[minIdx]
+        table[minIdx]=temp
 
-* 퀵 정렬(Quick Sort)
+        count+=1
+
+    return table
+
+if __name__ == "__main__":
+    table=[5,2,1,3,4]
+    Selection_Sort(table)
+    print(table)
+```
+
+# 삽입 정렬(Insertion Sort)
+
+# 버블 정렬(Bubble Sort)
+
+# 병합 정렬(Merge Sort)
+
+# 퀵 정렬(Quick Sort)
     
     > 분할 정복 알고리즘의 하나로, 평균적으로 매우 빠른 수행속도를 자랑한다.
 
@@ -103,15 +114,15 @@ nav_order: 10
         print(table)
     ```
 
-* 힙 정렬(Heap Sort)
+# 힙 정렬(Heap Sort)
 
-* 팀 정렬(Tim Sort)
+# 팀 정렬(Tim Sort)
 
-* 인트로 정렬(Intro Sort)
+# 인트로 정렬(Intro Sort)
 
-* 기수 정렬(Radix Sort)
+# 기수 정렬(Radix Sort)
 
-* 카운팅 정렬(Counting Sort) : 수열에 해당하는 각 숫자의 갯수를 세어 정렬된 배열에 저장 후, 배열을 순회하며 작은 값에서 큰 값의 개수를 산출하는 알고리즘
+# 카운팅 정렬(Counting Sort) : 수열에 해당하는 각 숫자의 갯수를 세어 정렬된 배열에 저장 후, 배열을 순회하며 작은 값에서 큰 값의 개수를 산출하는 알고리즘
 
     * O(n)의 시간 복잡도를 갖는다.
 
