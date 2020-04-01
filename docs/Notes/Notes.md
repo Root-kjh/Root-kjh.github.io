@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 기록사항
+title: Notes
 nav_order: 2
 has_children: true
 permalink: /docs/Notes

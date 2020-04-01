@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 회고록
+title: Retrospect
 nav_order: 4
 has_children: true
 permalink: /docs/Retrospect

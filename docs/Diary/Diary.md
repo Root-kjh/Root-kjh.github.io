@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 일기
+title: Diary
 nav_order: 3
 has_children: true
 permalink: /docs/Diary
