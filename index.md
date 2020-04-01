@@ -49,7 +49,7 @@ permalink: /
 
 * Programming
 
-    * [Programming](https://github.com/Root-kjh/til/Programming) : 프로그래밍 관련 지식 학습
+    * [Programming](https://github.com/Root-kjh/til/tree/master/Programming) : 프로그래밍 관련 지식 학습
 
 * DB
 
