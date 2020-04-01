@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Notes
-nav_order: 19
+title: 기록사항
+nav_order: 1
 has_children: true
 permalink: /docs/Notes
 ---
 
 # Notes
 
-개발 관련 고민, 일기, 기록사항, 회고 등을 정리
+개발, 블로그 관련 기록사항 정리
