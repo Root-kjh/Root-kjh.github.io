@@ -28,7 +28,7 @@ permalink: /
 
 * Web
 
-    * [Spring](https://github.com/Root-kjh/til/tree/master/Spring/%EC%BD%94%EB%93%9C%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) : 스프링의 기본 사용법과 MVC 구조 등에 대해 학습
+    * [Spring](https://github.com/Root-kjh/til/tree/master/Spring) : 스프링의 기본 사용법과 MVC 구조 등에 대해 학습
 
     Projects(개인 프로젝트)
 
@@ -47,13 +47,13 @@ permalink: /
         * [Recruit_List-View(Code)](https://github.com/Root-kjh/Recruit_List-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
         
 
-* Algorithm
+* Programming
 
-    * [Algorithm](https://github.com/Root-kjh/til/tree/master/Algorithm) : 여러 알고리즘 학습
+    * [Programming](https://github.com/Root-kjh/til/Programming) : 프로그래밍 관련 지식 학습
 
 * DB
 
-    * [MySQL](https://github.com/Root-kjh/til/tree/master/Database/DB%EA%B8%B0%EC%B4%88) : MySQL 기초 지식 학습
+    * [MySQL](https://github.com/Root-kjh/til/tree/master/Database/DB%EA%B8%B0%EC%B4%88) : 데이터베이스 관련 지식 학습
 
 * Network
 
@@ -61,4 +61,4 @@ permalink: /
 
 * Linux
 
-    * [Kernel](https://github.com/Root-kjh/til/tree/master/OS/Linux_Kernel) : 리눅스 커널 구조에 대해 학습
+    * [Kernel](https://github.com/Root-kjh/til/tree/master/OS) : 운영체제 관련 지식 학습
