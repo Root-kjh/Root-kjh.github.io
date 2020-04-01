@@ -53,12 +53,12 @@ permalink: /
 
 * DB
 
-    * [MySQL](https://github.com/Root-kjh/til/tree/master/Database/DB%EA%B8%B0%EC%B4%88) : 데이터베이스 관련 지식 학습
+    * [MySQL](https://github.com/Root-kjh/til/tree/master/Database/) : 데이터베이스 관련 지식 학습
 
 * Network
 
-    * [TCP/IP](https://github.com/Root-kjh/til/tree/master/Network/TCP_IP) : 네트워크 기초와 TCP/IP에 관한 지식 학습
+    * [TCP/IP](https://github.com/Root-kjh/til/tree/master/Network/) : 네트워크 관련 지식 학습
 
-* Linux
+* OS(Linux)
 
     * [Kernel](https://github.com/Root-kjh/til/tree/master/OS) : 운영체제 관련 지식 학습
