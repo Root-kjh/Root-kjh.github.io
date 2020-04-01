@@ -1,9 +1,9 @@
 ---
 layout: default
 title: 일기
-nav_order: 2
+nav_order: 3
 has_children: true
-permalink: /docs/Notes
+permalink: /docs/Diary
 ---
 
 # Diary
