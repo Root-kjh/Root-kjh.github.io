@@ -6,7 +6,7 @@ description: "DrK의 기술 블로그"
 permalink: /
 ---
 
-# DrK's Tech Blog
+# JonhHyunKim's Tech Blog
 
 ## About
 
