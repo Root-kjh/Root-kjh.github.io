@@ -35,7 +35,7 @@ permalink: /
     * Spring Boot
         * [TodoList](http://todo-list.kro.kr:8000/) : TodoList 웹 제작
 
-        * [TodoList(Code)](https://github.com/Root-kjh/ToDoList-SpringBoot) : 기술과 기능보다 코드의 가독성, 구조등에 집중하며 제작한 프로젝트
+        * [TodoList(Code)](https://github.com/Root-kjh/ToDoList-SpringBoot) : 기술과 기능보다 코드의 가독성, 구조 등에 집중하며 제작한 프로젝트
 
     * Spring, React, Mongo
 
