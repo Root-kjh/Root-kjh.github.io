@@ -32,11 +32,10 @@ permalink: /
 
     Projects(개인 프로젝트)
 
-    * PHP, HTML, CSS, SQL
+    * Spring Boot
+        * [TodoList](http://todo-list.kro.kr:8000/) : TodoList 웹 제작
 
-        * [Warzone(Code)](https://github.com/Root-kjh/Warzone) : WebHacking, Pwnable, Reversing, Crypto 등의 여러 해킹 문제 출제 사이트 개발
-
-        * [Warzone_Props(Code)](https://github.com/Root-kjh/Warzone_props) : WebHacking 관련 문제 출제 (XSS, SQL Injection 등)
+        * [TodoList(Code)](https://github.com/Root-kjh/ToDoList-SpringBoot) : 기술과 기능보다 코드의 가독성, 구조등에 집중하며 제작한 프로젝트
 
     * Spring, React, Mongo
 
@@ -45,6 +44,12 @@ permalink: /
         * [Recruit_List-Server(Code)](https://github.com/Root-kjh/Recruit_List-Server) : 산업기능요원 채용관련 정보를 크롤링, 가공 후 Rest API로 데이터 표현
 
         * [Recruit_List-View(Code)](https://github.com/Root-kjh/Recruit_List-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
+
+    * PHP, HTML, CSS, SQL
+
+        * [Warzone(Code)](https://github.com/Root-kjh/Warzone) : WebHacking, Pwnable, Reversing, Crypto 등의 여러 해킹 문제 출제 사이트 개발
+
+        * [Warzone_Props(Code)](https://github.com/Root-kjh/Warzone_props) : WebHacking 관련 문제 출제 (XSS, SQL Injection 등)
         
 
 * Programming
