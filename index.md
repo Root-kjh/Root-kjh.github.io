@@ -14,8 +14,6 @@ permalink: /
 
     wldnro3141@gmail.com
 
-    010-6590-8861
-
 2016년부터 웹해킹을 공부하였고, 현재는 Backend 개발을 공부중입니다. 
 
 ## Personal Activities
