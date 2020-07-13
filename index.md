@@ -30,24 +30,35 @@ permalink: /
 
     Projects(개인 프로젝트)
 
-    * Spring Boot
-        * [TodoList](http://kjh-projects.kro.kr/todolist-springboot/) : TodoList 웹 제작
+    * [TodoList](http://kjh-projects.kro.kr/todolist-springboot/) : TodoList
 
-        * [TodoList(Code)](https://github.com/Root-kjh/ToDoList-SpringBoot) : 기술과 기능보다 코드의 가독성, 구조 등에 집중하며 제작한 프로젝트
+        * Spring Boot
+        
+            * [TodoList(Code)](https://github.com/Root-kjh/TodoList-SpringBoot) : 기술과 기능보다 코드의 가독성, 구조 등에 집중하며 제작한 프로젝트
 
-    * Spring, React, Mongo
+        * React
 
-        * [Recruit_List](http://kjh-projects.kro.kr/recruitlist-spring) : 산업 기능요원 채용관련 정보 모음 웹
+            * [TodoList(View)](https://github.com/Root-kjh/TodoList-SpringBoot-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
 
-        * [Recruit_List-Server(Code)](https://github.com/Root-kjh/Recruit_List-Server) : 산업기능요원 채용관련 정보를 크롤링, 가공 후 Rest API로 데이터 표현
+    
 
-        * [Recruit_List-View(Code)](https://github.com/Root-kjh/Recruit_List-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
+    * [Recruit_List](http://kjh-projects.kro.kr/recruitlist-spring) : 산업 기능요원 채용관련 정보 모음 웹
 
-    * PHP, HTML, CSS, SQL
+        * Spring, Mongo
+        
+            * [Recruit_List-Server(Code)](https://github.com/Root-kjh/Recruit_List-Server) : 산업기능요원 채용관련 정보를 크롤링, 가공 후 Rest API로 데이터 표현
 
-        * [Warzone(Code)](https://github.com/Root-kjh/Warzone) : WebHacking, Pwnable, Reversing, Crypto 등의 여러 해킹 문제 출제 사이트 개발
+        * React
 
-        * [Warzone_Props(Code)](https://github.com/Root-kjh/Warzone_props) : WebHacking 관련 문제 출제 (XSS, SQL Injection 등)
+            * [Recruit_List-View(Code)](https://github.com/Root-kjh/Recruit_List-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
+
+    * Warzone
+
+        * PHP, HTML, CSS, SQL
+
+            * [Warzone(Code)](https://github.com/Root-kjh/Warzone) : WebHacking, Pwnable, Reversing, Crypto 등의 여러 해킹 문제 출제 사이트 개발
+
+            * [Warzone_Props(Code)](https://github.com/Root-kjh/Warzone_props) : WebHacking 관련 문제 출제 (XSS, SQL Injection 등)
         
 
 * Programming
