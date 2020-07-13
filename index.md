@@ -31,13 +31,13 @@ permalink: /
     Projects(개인 프로젝트)
 
     * Spring Boot
-        * [TodoList](http://todo-list.kro.kr:8000/) : TodoList 웹 제작
+        * [TodoList](http://kjh-projects.kro.kr/todolist-springboot/) : TodoList 웹 제작
 
         * [TodoList(Code)](https://github.com/Root-kjh/ToDoList-SpringBoot) : 기술과 기능보다 코드의 가독성, 구조 등에 집중하며 제작한 프로젝트
 
     * Spring, React, Mongo
 
-        * [Recruit_List](http://recruit-list.kro.kr:8080/) : 산업 기능요원 채용관련 정보 모음 웹
+        * [Recruit_List](http://kjh-projects.kro.kr/recruitlist-spring) : 산업 기능요원 채용관련 정보 모음 웹
 
         * [Recruit_List-Server(Code)](https://github.com/Root-kjh/Recruit_List-Server) : 산업기능요원 채용관련 정보를 크롤링, 가공 후 Rest API로 데이터 표현
 
