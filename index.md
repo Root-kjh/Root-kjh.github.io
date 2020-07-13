@@ -22,13 +22,9 @@ permalink: /
 
 * [Baekjoon](https://www.acmicpc.net/user/kjh3141)
 
-## Skils
+## Projects
 
 * Web
-
-    * [Spring](https://github.com/Root-kjh/til/tree/master/Spring) : 스프링의 기본 사용법과 MVC 구조 등에 대해 학습
-
-    Projects(개인 프로젝트)
 
     * [TodoList](http://kjh-projects.kro.kr/todolist-springboot/) : TodoList
 
@@ -46,8 +42,7 @@ permalink: /
 
         * Spring, Mongo
         
-            * [Recruit_List-Server(Code)](https://github.com/Root-kjh/Recruit_List-Server) : 산업기능요원 채용관련 정보를 크롤링, 가공 후 Rest API로 데이터 표현
-
+            * [Recruit_List-Server(Code)](https://github.com/Root-kjh/Recruit_List-Server) : 써보고 싶은 다양한 기술스택을 사용하며 만든 프로젝트
         * React
 
             * [Recruit_List-View(Code)](https://github.com/Root-kjh/Recruit_List-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
@@ -61,9 +56,11 @@ permalink: /
             * [Warzone_Props(Code)](https://github.com/Root-kjh/Warzone_props) : WebHacking 관련 문제 출제 (XSS, SQL Injection 등)
         
 
-* Programming
+## Skils
 
-    * [Programming](https://github.com/Root-kjh/til/tree/master/Programming) : 프로그래밍 관련 지식 학습
+* [Spring](https://github.com/Root-kjh/til/tree/master/Spring) : 스프링의 기본 사용법과 MVC 구조 등에 대해 학습
+
+* [Programming](https://github.com/Root-kjh/til/tree/master/Programming)
 
 * DB
 
