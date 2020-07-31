@@ -60,7 +60,7 @@ permalink: /
 
 * [Spring](https://github.com/Root-kjh/til/tree/master/Spring) : 스프링의 기본 사용법과 MVC 구조 등에 대해 학습
 
-* [Programming](https://github.com/Root-kjh/til/tree/master/Programming)
+* [Programming](https://github.com/Root-kjh/til/tree/master/Programming) : 프로그래밍 관련 지식 학습
 
 * DB
 
