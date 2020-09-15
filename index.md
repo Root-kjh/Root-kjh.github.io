@@ -24,7 +24,7 @@ permalink: /
 
 ## Projects
 
-* [Web](http://kjh-projects.kro.kr/)
+* [Web](https://root-kjh.github.io/Kjh-Projects/)
 
     * [TodoList](http://kjh-projects.kro.kr/todolist-springboot/) : TodoList
 
