@@ -22,7 +22,7 @@ permalink: /
 
 ## Projects
 
-* [Web](https://root-kjh.github.io/Kjh-Projects/)
+* [Web](http://kjh-projects.kro.kr/)
 
     * [TodoList](http://kjh-projects.kro.kr/todolist-springboot/) : TodoList
 
