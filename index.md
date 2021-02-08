@@ -10,8 +10,6 @@ permalink: /
 
 ### 김종현 
 
-    wldnro3141@gmail.com
-
 2016년부터 웹해킹을 공부하였고, 2019년부터 Backend 개발을 공부중입니다. 
 
 ## Personal Activities
