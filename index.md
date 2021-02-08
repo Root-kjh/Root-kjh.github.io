@@ -24,7 +24,7 @@ permalink: /
 
 * [Web](http://kjh-projects.kro.kr/)
 
-    * [TodoList](http://kjh-projects.kro.kr/todolist-springboot/) : TodoList
+    * [TodoList](http://kjh-projects.kro.kr/todo-list/) : TodoList
 
         * Spring Boot
         
@@ -36,7 +36,7 @@ permalink: /
 
     
 
-    * [Recruit_List](http://kjh-projects.kro.kr/recruitlist-spring) : 산업 기능요원 채용관련 정보 모음 웹
+    * [Recruit_List](http://kjh-projects.kro.kr/recruit-list/) : 산업 기능요원 채용관련 정보 모음 웹
 
         * Spring, Mongo
         
