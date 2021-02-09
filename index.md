@@ -28,12 +28,14 @@ permalink: /
 
             * [MemorialDay-Calendar(Code)](https://github.com/Root-kjh/MemorialDay-Calendar) : 새로운 프레임워크의 학습, TDD 개발을 목표로 한 프로젝트
 
+    <br><br>
     * Toyproject-Board(not finished)
 
         * Flask
 
             * [Toyproject-Board(Code)](https://github.com/Root-kjh/Toyproject-Board) : 새로운 프레임워크의 학습, TDD 개발을 목표로 한 프로젝트
 
+    <br><br>
     * [TodoList](http://kjh-projects.kro.kr/todo-list/) : TodoList
 
         * Spring Boot
@@ -44,8 +46,7 @@ permalink: /
 
             * [TodoList(View)](https://github.com/Root-kjh/TodoList-SpringBoot-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
 
-    
-
+    <br><br>
     * [Recruit_List](http://kjh-projects.kro.kr/recruit-list/) : 산업 기능요원 채용관련 정보 모음 웹
 
         * Spring, Mongo
@@ -54,7 +55,8 @@ permalink: /
         * React
 
             * [Recruit_List-View(Code)](https://github.com/Root-kjh/Recruit_List-View) : 가공된 데이터를 Rest API로 받아와 웹으로 표현
-
+            
+    <br><br>
     * Warzone
 
         * PHP, HTML, CSS, SQL
