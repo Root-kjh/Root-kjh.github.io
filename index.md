@@ -22,6 +22,18 @@ permalink: /
 
 * [Web](http://kjh-projects.kro.kr/)
 
+    * MemorialDay-Calendar(not finished)
+
+        * Django
+
+            * [MemorialDay-Calendar(Code)](https://github.com/Root-kjh/MemorialDay-Calendar) : 새로운 프레임워크의 학습, TDD 개발을 목표로 한 프로젝트
+
+    * Toyproject-Board(not finished)
+
+        * Flask
+
+            * [Toyproject-Board(Code)](https://github.com/Root-kjh/Toyproject-Board) : 새로운 프레임워크의 학습, TDD 개발을 목표로 한 프로젝트
+
     * [TodoList](http://kjh-projects.kro.kr/todo-list/) : TodoList
 
         * Spring Boot
