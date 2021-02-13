@@ -1,7 +1,7 @@
 ---
 layout: default
 title: TodoList-SpringBoot 프로젝트 회고
-parent: Retrospect
+parent: 회고록
 nav_order: 1
 ---
 

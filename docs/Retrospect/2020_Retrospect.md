@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2020년 회고
-parent: Retrospect
+parent: 회고록
 nav_order: 2
 ---
 
