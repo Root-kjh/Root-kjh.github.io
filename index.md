@@ -27,19 +27,13 @@ permalink: /
         * Django
 
             * [MemorialDay-Calendar(Code)](https://github.com/Root-kjh/MemorialDay-Calendar) : 새로운 프레임워크 학습, TDD 개발을 목표로 한 프로젝트
+            
     <br><br>
     * Rails-Test(not finished)
 
         * Ruby on Rails
 
             * [Rails-Test(Code)](https://github.com/Root-kjh/RailsTest) : 새로운 프레임워크 학습, RestFul한 개발, TDD 개발을 목표로 한 프로젝트
-
-    <br><br>
-    * Toyproject-Board(not finished)
-
-        * Flask
-
-            * [Toyproject-Board(Code)](https://github.com/Root-kjh/Toyproject-Board) : 새로운 프레임워크 학습, TDD 개발을 목표로 한 프로젝트
 
     <br><br>
     * [TodoList](http://kjh-projects.kro.kr/todo-list/) : TodoList
