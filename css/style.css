@@ -103,32 +103,67 @@ footer {
   }
 }
 
-.privacy-policy {
+.privacy-policy,
+.terms-policy,
+.refund-policy {
   max-width: 800px;
   margin: 2rem auto;
   padding: 0 1rem;
 }
 
-.privacy-policy section {
+.privacy-policy section,
+.terms-policy section,
+.refund-policy section {
   margin: 2rem 0;
 }
 
-.privacy-policy h1 {
+.privacy-policy h1,
+.terms-policy h1,
+.refund-policy h1 {
   text-align: center;
   margin-bottom: 3rem;
   color: var(--primary-color);
 }
 
-.privacy-policy h2 {
+.privacy-policy h2,
+.terms-policy h2,
+.refund-policy h2 {
   color: var(--primary-color);
   margin-bottom: 1rem;
 }
 
-.privacy-policy ul {
+.privacy-policy ul,
+.terms-policy ul,
+.refund-policy ul {
   list-style-position: inside;
   margin: 1rem 0;
 }
 
-.privacy-policy li {
+.privacy-policy li,
+.terms-policy li,
+.refund-policy li {
   margin: 0.5rem 0;
+}
+
+.privacy-policy p,
+.terms-policy p,
+.refund-policy p {
+  margin: 1rem 0;
+}
+
+.nav-links a:hover {
+  color: var(--primary-color);
+  transition: color 0.3s ease;
+}
+
+.footer-links a:hover {
+  color: var(--primary-color);
+  transition: color 0.3s ease;
+}
+
+.logo a {
+  text-decoration: none;
+  color: var(--primary-color);
+  font-size: 1.5rem;
+  font-weight: bold;
 }
