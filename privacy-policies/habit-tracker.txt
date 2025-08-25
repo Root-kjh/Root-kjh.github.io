@@ -1,0 +1,147 @@
+PRIVACY POLICY
+
+Daily Habit Tracker
+
+Last Updated: January 2025
+
+This Privacy Policy describes how Daily Habit Tracker ("we", "our", or "the app") collects, uses, and shares information about you when you use our mobile application.
+
+CONTACT INFORMATION
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+Email: contact@jobby-time.com
+
+1. INFORMATION WE COLLECT
+
+Personal Information
+We do not collect personally identifiable information such as your name, email address, or phone number. The app operates locally on your device.
+
+Usage Data
+We may collect information about how the app is accessed and used. This may include:
+- App usage statistics
+- Feature interaction data
+- Device information (device type, operating system version)
+- Crash reports and performance data
+
+Local Data Storage
+All your habit data, including:
+- Habit names and descriptions
+- Check-in records
+- Progress statistics
+- Custom settings
+
+This data is stored locally on your device and is not transmitted to our servers.
+
+2. HOW WE USE INFORMATION
+
+We use the collected information to:
+- Provide and maintain the app functionality
+- Improve and optimize app performance
+- Fix bugs and technical issues
+- Analyze usage patterns to enhance user experience
+- Display relevant advertisements through Google AdMob
+
+3. ADVERTISING
+
+Our app uses Google AdMob to display advertisements. AdMob may collect and use data for ad personalization. This includes:
+- Device advertising ID
+- IP address
+- General location data
+- Ad interaction data
+
+You can opt out of personalized advertising by adjusting your device settings:
+- Android: Settings > Google > Ads > Opt out of Ads Personalization
+- iOS: Settings > Privacy > Advertising > Limit Ad Tracking
+
+For more information about Google's privacy practices, visit:
+https://policies.google.com/privacy
+
+4. DATA SECURITY
+
+We implement appropriate technical and organizational measures to protect your data:
+- All habit data is stored locally on your device
+- We do not transmit personal data to external servers
+- We use industry-standard security practices for any analytics data collected
+
+However, no method of electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+5. DATA RETENTION
+
+Local Data:
+- Habit data remains on your device until you delete the app
+- You can delete individual habits or clear all data through the app settings
+
+Analytics Data:
+- Anonymous usage statistics are retained for up to 24 months
+- Crash reports are retained for 90 days
+
+6. CHILDREN'S PRIVACY
+
+Our app is not directed to children under 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at contact@jobby-time.com.
+
+7. YOUR RIGHTS
+
+You have the right to:
+- Access your habit data (available in the app)
+- Delete your data (through app settings or by uninstalling)
+- Opt out of personalized advertising
+- Request information about data practices by contacting us
+
+For users in the European Economic Area (EEA):
+Under GDPR, you have additional rights including the right to data portability, the right to restrict processing, and the right to lodge a complaint with your local data protection authority.
+
+For California residents:
+Under CCPA, you have the right to know what personal information is collected, request deletion of your information, and opt-out of the sale of personal information (we do not sell personal information).
+
+8. THIRD-PARTY SERVICES
+
+Our app may contain links to third-party websites or services. We are not responsible for the privacy practices of these third parties. We encourage you to read their privacy policies.
+
+Third-party services used:
+- Google AdMob (Advertising): https://policies.google.com/privacy
+- Google Analytics for Firebase (Analytics): https://firebase.google.com/support/privacy
+
+9. CHANGES TO THIS PRIVACY POLICY
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by:
+- Updating the "Last Updated" date
+- Showing an in-app notification for significant changes
+
+Your continued use of the app after changes indicates acceptance of the updated Privacy Policy.
+
+10. INTERNATIONAL DATA TRANSFERS
+
+If you use our app from outside the United States, please note that analytics data may be transferred to and processed in the United States or other countries. By using the app, you consent to such transfers.
+
+11. DATA PROTECTION OFFICER
+
+For privacy-related inquiries, our Data Protection contact is:
+Email: contact@jobby-time.com
+
+12. LEGAL BASIS FOR PROCESSING (EEA Users)
+
+We process data based on:
+- Consent: For advertising and analytics
+- Legitimate interests: For app functionality and improvements
+- Legal obligations: When required by law
+
+13. CONSENT
+
+By using Daily Habit Tracker, you consent to:
+- The collection and use of information as described in this Privacy Policy
+- The display of advertisements through Google AdMob
+
+You may withdraw consent for personalized ads through your device settings.
+
+14. CONTACT US
+
+For any questions about this Privacy Policy or our data practices, please contact us:
+
+Email: contact@jobby-time.com
+App Name: Daily Habit Tracker
+Developer: Jobby Time
+
+We aim to respond to all legitimate requests within 30 days.
+
+---
+
+This Privacy Policy is effective as of January 2025 and applies to all users of Daily Habit Tracker.
